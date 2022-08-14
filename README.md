@@ -1,7 +1,5 @@
 # 📚This is a repository, which contains all the solutions to the tasks of the following courses:
 
-<a href="https://softuni.bg/trainings/3461/programming-basics-with-csharp-july-2021#lesson-30485">Programming Basics with C#</a>
-<br></br>
 <a href="https://softuni.bg/trainings/3447/programming-fundamentals-with-csharp-september-2021">Programming Fundamentals with C#</a>
 <br></br>
 <a href="https://softuni.bg/modules/58/csharp-advanced/1357">C# Advanced </a>
