@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.exe
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.dll
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.pdb
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.dll
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.pdb
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.genruntimeconfig.cache

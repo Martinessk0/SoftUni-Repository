@@ -1,0 +1,12 @@
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\bin\Debug\netcoreapp3.1\T02SquaresInMatrix.exe
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\bin\Debug\netcoreapp3.1\T02SquaresInMatrix.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\bin\Debug\netcoreapp3.1\T02SquaresInMatrix.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\bin\Debug\netcoreapp3.1\T02SquaresInMatrix.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\bin\Debug\netcoreapp3.1\T02SquaresInMatrix.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\bin\Debug\netcoreapp3.1\T02SquaresInMatrix.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\obj\Debug\netcoreapp3.1\T02SquaresInMatrix.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\obj\Debug\netcoreapp3.1\T02SquaresInMatrix.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\obj\Debug\netcoreapp3.1\T02SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\obj\Debug\netcoreapp3.1\T02SquaresInMatrix.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\obj\Debug\netcoreapp3.1\T02SquaresInMatrix.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T02SquaresInMatrix\obj\Debug\netcoreapp3.1\T02SquaresInMatrix.genruntimeconfig.cache

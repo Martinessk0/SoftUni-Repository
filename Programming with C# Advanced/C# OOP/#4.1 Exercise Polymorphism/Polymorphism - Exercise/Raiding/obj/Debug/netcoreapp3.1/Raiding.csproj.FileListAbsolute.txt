@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#4.1 Exercise Polymorphism\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

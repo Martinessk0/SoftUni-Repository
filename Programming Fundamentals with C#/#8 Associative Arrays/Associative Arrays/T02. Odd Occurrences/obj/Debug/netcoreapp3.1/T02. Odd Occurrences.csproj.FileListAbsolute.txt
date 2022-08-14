@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\bin\Debug\netcoreapp3.1\T02. Odd Occurrences.exe
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\bin\Debug\netcoreapp3.1\T02. Odd Occurrences.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\bin\Debug\netcoreapp3.1\T02. Odd Occurrences.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\bin\Debug\netcoreapp3.1\T02. Odd Occurrences.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\bin\Debug\netcoreapp3.1\T02. Odd Occurrences.dll
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\bin\Debug\netcoreapp3.1\T02. Odd Occurrences.pdb
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\obj\Debug\netcoreapp3.1\T02. Odd Occurrences.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\obj\Debug\netcoreapp3.1\T02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\obj\Debug\netcoreapp3.1\T02. Odd Occurrences.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\obj\Debug\netcoreapp3.1\T02. Odd Occurrences.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\obj\Debug\netcoreapp3.1\T02. Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\obj\Debug\netcoreapp3.1\T02. Odd Occurrences.dll
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\obj\Debug\netcoreapp3.1\T02. Odd Occurrences.pdb
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T02. Odd Occurrences\obj\Debug\netcoreapp3.1\T02. Odd Occurrences.genruntimeconfig.cache

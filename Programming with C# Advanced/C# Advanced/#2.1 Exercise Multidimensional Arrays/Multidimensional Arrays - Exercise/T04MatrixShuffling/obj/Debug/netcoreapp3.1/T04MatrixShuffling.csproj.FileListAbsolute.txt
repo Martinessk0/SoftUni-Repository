@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\bin\Debug\netcoreapp3.1\T04MatrixShuffling.exe
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\bin\Debug\netcoreapp3.1\T04MatrixShuffling.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\bin\Debug\netcoreapp3.1\T04MatrixShuffling.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\bin\Debug\netcoreapp3.1\T04MatrixShuffling.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\bin\Debug\netcoreapp3.1\T04MatrixShuffling.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\bin\Debug\netcoreapp3.1\T04MatrixShuffling.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\obj\Debug\netcoreapp3.1\T04MatrixShuffling.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\obj\Debug\netcoreapp3.1\T04MatrixShuffling.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\obj\Debug\netcoreapp3.1\T04MatrixShuffling.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\obj\Debug\netcoreapp3.1\T04MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\obj\Debug\netcoreapp3.1\T04MatrixShuffling.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\obj\Debug\netcoreapp3.1\T04MatrixShuffling.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T04MatrixShuffling\obj\Debug\netcoreapp3.1\T04MatrixShuffling.genruntimeconfig.cache

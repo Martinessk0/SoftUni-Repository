@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2 Encapsulation\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache

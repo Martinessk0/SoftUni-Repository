@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

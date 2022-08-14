@@ -1,0 +1,28 @@
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.exe
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.dll
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.dll
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\bin\Debug\netcoreapp3.1\T01.ValidUsernames.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T01.ValidUsernames\obj\Debug\netcoreapp3.1\T01.ValidUsernames.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.exe
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.genruntimeconfig.cache

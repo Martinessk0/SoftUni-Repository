@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.exe
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.dll
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.dll
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.genruntimeconfig.cache

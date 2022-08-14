@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\bin\Debug\netcoreapp3.1\T07RawData.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\bin\Debug\netcoreapp3.1\T07RawData.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\bin\Debug\netcoreapp3.1\T07RawData.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\bin\Debug\netcoreapp3.1\T07RawData.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\bin\Debug\netcoreapp3.1\T07RawData.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\bin\Debug\netcoreapp3.1\T07RawData.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\obj\Debug\netcoreapp3.1\T07RawData.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\obj\Debug\netcoreapp3.1\T07RawData.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\obj\Debug\netcoreapp3.1\T07RawData.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\obj\Debug\netcoreapp3.1\T07RawData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\obj\Debug\netcoreapp3.1\T07RawData.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\obj\Debug\netcoreapp3.1\T07RawData.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T07RawData\obj\Debug\netcoreapp3.1\T07RawData.genruntimeconfig.cache

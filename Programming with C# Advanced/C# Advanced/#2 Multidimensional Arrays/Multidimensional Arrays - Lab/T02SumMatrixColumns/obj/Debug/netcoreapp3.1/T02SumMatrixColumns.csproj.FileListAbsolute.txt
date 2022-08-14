@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\bin\Debug\netcoreapp3.1\T02SumMatrixColumns.exe
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\bin\Debug\netcoreapp3.1\T02SumMatrixColumns.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\bin\Debug\netcoreapp3.1\T02SumMatrixColumns.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\bin\Debug\netcoreapp3.1\T02SumMatrixColumns.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\bin\Debug\netcoreapp3.1\T02SumMatrixColumns.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\bin\Debug\netcoreapp3.1\T02SumMatrixColumns.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\obj\Debug\netcoreapp3.1\T02SumMatrixColumns.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\obj\Debug\netcoreapp3.1\T02SumMatrixColumns.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\obj\Debug\netcoreapp3.1\T02SumMatrixColumns.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\obj\Debug\netcoreapp3.1\T02SumMatrixColumns.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\obj\Debug\netcoreapp3.1\T02SumMatrixColumns.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\obj\Debug\netcoreapp3.1\T02SumMatrixColumns.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T02SumMatrixColumns\obj\Debug\netcoreapp3.1\T02SumMatrixColumns.genruntimeconfig.cache

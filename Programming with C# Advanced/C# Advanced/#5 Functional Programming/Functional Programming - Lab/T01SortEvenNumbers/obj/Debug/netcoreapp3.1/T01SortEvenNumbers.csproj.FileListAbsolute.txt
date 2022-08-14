@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\bin\Debug\netcoreapp3.1\T01SortEvenNumbers.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\bin\Debug\netcoreapp3.1\T01SortEvenNumbers.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\bin\Debug\netcoreapp3.1\T01SortEvenNumbers.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\bin\Debug\netcoreapp3.1\T01SortEvenNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\bin\Debug\netcoreapp3.1\T01SortEvenNumbers.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\bin\Debug\netcoreapp3.1\T01SortEvenNumbers.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\obj\Debug\netcoreapp3.1\T01SortEvenNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\obj\Debug\netcoreapp3.1\T01SortEvenNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\obj\Debug\netcoreapp3.1\T01SortEvenNumbers.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\obj\Debug\netcoreapp3.1\T01SortEvenNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\obj\Debug\netcoreapp3.1\T01SortEvenNumbers.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\obj\Debug\netcoreapp3.1\T01SortEvenNumbers.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T01SortEvenNumbers\obj\Debug\netcoreapp3.1\T01SortEvenNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\bin\Debug\netcoreapp3.1\T05PrintEvenNumbers.exe
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\bin\Debug\netcoreapp3.1\T05PrintEvenNumbers.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\bin\Debug\netcoreapp3.1\T05PrintEvenNumbers.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\bin\Debug\netcoreapp3.1\T05PrintEvenNumbers.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\bin\Debug\netcoreapp3.1\T05PrintEvenNumbers.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\bin\Debug\netcoreapp3.1\T05PrintEvenNumbers.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\obj\Debug\netcoreapp3.1\T05PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\obj\Debug\netcoreapp3.1\T05PrintEvenNumbers.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\obj\Debug\netcoreapp3.1\T05PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\obj\Debug\netcoreapp3.1\T05PrintEvenNumbers.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\obj\Debug\netcoreapp3.1\T05PrintEvenNumbers.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T05PrintEvenNumbers\obj\Debug\netcoreapp3.1\T05PrintEvenNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.genruntimeconfig.cache

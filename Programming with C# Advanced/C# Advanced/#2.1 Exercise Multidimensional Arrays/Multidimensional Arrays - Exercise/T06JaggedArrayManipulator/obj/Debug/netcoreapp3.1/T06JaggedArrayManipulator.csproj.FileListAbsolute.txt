@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\T06JaggedArrayManipulator.exe
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\T06JaggedArrayManipulator.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\T06JaggedArrayManipulator.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\T06JaggedArrayManipulator.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\T06JaggedArrayManipulator.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\bin\Debug\netcoreapp3.1\T06JaggedArrayManipulator.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\T06JaggedArrayManipulator.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\T06JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\T06JaggedArrayManipulator.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\T06JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\T06JaggedArrayManipulator.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\T06JaggedArrayManipulator.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T06JaggedArrayManipulator\obj\Debug\netcoreapp3.1\T06JaggedArrayManipulator.genruntimeconfig.cache

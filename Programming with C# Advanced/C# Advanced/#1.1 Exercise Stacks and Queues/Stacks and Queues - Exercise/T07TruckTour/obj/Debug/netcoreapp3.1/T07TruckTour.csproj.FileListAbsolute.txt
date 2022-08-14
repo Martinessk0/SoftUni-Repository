@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\bin\Debug\netcoreapp3.1\T07TruckTour.exe
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\bin\Debug\netcoreapp3.1\T07TruckTour.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\bin\Debug\netcoreapp3.1\T07TruckTour.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\bin\Debug\netcoreapp3.1\T07TruckTour.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\bin\Debug\netcoreapp3.1\T07TruckTour.dll
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\bin\Debug\netcoreapp3.1\T07TruckTour.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\obj\Debug\netcoreapp3.1\T07TruckTour.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\obj\Debug\netcoreapp3.1\T07TruckTour.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\obj\Debug\netcoreapp3.1\T07TruckTour.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\obj\Debug\netcoreapp3.1\T07TruckTour.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\obj\Debug\netcoreapp3.1\T07TruckTour.dll
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\obj\Debug\netcoreapp3.1\T07TruckTour.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T07TruckTour\obj\Debug\netcoreapp3.1\T07TruckTour.genruntimeconfig.cache

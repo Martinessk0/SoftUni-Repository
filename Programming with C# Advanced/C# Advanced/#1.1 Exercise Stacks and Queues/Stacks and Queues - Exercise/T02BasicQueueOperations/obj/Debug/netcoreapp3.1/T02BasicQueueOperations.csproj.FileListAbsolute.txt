@@ -1,0 +1,13 @@
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\obj\Debug\netcoreapp3.1\T02BasicQueueOperations.csprojAssemblyReference.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\obj\Debug\netcoreapp3.1\T02BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\obj\Debug\netcoreapp3.1\T02BasicQueueOperations.AssemblyInfo.cs
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\obj\Debug\netcoreapp3.1\T02BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\bin\Debug\netcoreapp3.1\T02BasicQueueOperations.exe
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\bin\Debug\netcoreapp3.1\T02BasicQueueOperations.deps.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\bin\Debug\netcoreapp3.1\T02BasicQueueOperations.runtimeconfig.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\bin\Debug\netcoreapp3.1\T02BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\bin\Debug\netcoreapp3.1\T02BasicQueueOperations.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\bin\Debug\netcoreapp3.1\T02BasicQueueOperations.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\obj\Debug\netcoreapp3.1\T02BasicQueueOperations.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\obj\Debug\netcoreapp3.1\T02BasicQueueOperations.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T02BasicQueueOperations\obj\Debug\netcoreapp3.1\T02BasicQueueOperations.genruntimeconfig.cache

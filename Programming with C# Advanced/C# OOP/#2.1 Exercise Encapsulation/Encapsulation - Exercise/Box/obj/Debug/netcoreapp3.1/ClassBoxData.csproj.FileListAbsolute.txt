@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\obj\Debug\netcoreapp3.1\ClassBoxData.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Box\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache

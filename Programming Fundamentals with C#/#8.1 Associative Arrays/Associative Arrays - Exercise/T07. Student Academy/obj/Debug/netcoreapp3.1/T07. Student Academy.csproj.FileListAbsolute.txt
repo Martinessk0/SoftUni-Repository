@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\bin\Debug\netcoreapp3.1\T07. Student Academy.exe
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\bin\Debug\netcoreapp3.1\T07. Student Academy.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\bin\Debug\netcoreapp3.1\T07. Student Academy.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\bin\Debug\netcoreapp3.1\T07. Student Academy.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\bin\Debug\netcoreapp3.1\T07. Student Academy.dll
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\bin\Debug\netcoreapp3.1\T07. Student Academy.pdb
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\obj\Debug\netcoreapp3.1\T07. Student Academy.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\obj\Debug\netcoreapp3.1\T07. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\obj\Debug\netcoreapp3.1\T07. Student Academy.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\obj\Debug\netcoreapp3.1\T07. Student Academy.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\obj\Debug\netcoreapp3.1\T07. Student Academy.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\obj\Debug\netcoreapp3.1\T07. Student Academy.dll
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\obj\Debug\netcoreapp3.1\T07. Student Academy.pdb
+D:\SoftUni\Programming Fundamentals with C#\#8.1 Exercise Associative Arrays\Associative Arrays - Exercise\T07. Student Academy\obj\Debug\netcoreapp3.1\T07. Student Academy.genruntimeconfig.cache

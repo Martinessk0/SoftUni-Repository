@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\bin\Debug\netcoreapp3.1\T01Car.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\bin\Debug\netcoreapp3.1\T01Car.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\bin\Debug\netcoreapp3.1\T01Car.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\bin\Debug\netcoreapp3.1\T01Car.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\bin\Debug\netcoreapp3.1\T01Car.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\bin\Debug\netcoreapp3.1\T01Car.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\obj\Debug\netcoreapp3.1\T01Car.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\obj\Debug\netcoreapp3.1\T01Car.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\obj\Debug\netcoreapp3.1\T01Car.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\obj\Debug\netcoreapp3.1\T01Car.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\obj\Debug\netcoreapp3.1\T01Car.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\obj\Debug\netcoreapp3.1\T01Car.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T01Car\obj\Debug\netcoreapp3.1\T01Car.genruntimeconfig.cache

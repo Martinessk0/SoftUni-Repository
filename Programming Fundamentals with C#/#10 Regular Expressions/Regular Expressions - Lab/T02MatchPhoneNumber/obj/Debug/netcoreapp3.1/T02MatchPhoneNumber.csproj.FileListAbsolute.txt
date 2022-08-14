@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\bin\Debug\netcoreapp3.1\T02MatchPhoneNumber.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\bin\Debug\netcoreapp3.1\T02MatchPhoneNumber.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\bin\Debug\netcoreapp3.1\T02MatchPhoneNumber.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\bin\Debug\netcoreapp3.1\T02MatchPhoneNumber.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\bin\Debug\netcoreapp3.1\T02MatchPhoneNumber.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\bin\Debug\netcoreapp3.1\T02MatchPhoneNumber.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\obj\Debug\netcoreapp3.1\T02MatchPhoneNumber.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\obj\Debug\netcoreapp3.1\T02MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\obj\Debug\netcoreapp3.1\T02MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\obj\Debug\netcoreapp3.1\T02MatchPhoneNumber.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\obj\Debug\netcoreapp3.1\T02MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\obj\Debug\netcoreapp3.1\T02MatchPhoneNumber.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\obj\Debug\netcoreapp3.1\T02MatchPhoneNumber.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T02MatchPhoneNumber\obj\Debug\netcoreapp3.1\T02MatchPhoneNumber.genruntimeconfig.cache

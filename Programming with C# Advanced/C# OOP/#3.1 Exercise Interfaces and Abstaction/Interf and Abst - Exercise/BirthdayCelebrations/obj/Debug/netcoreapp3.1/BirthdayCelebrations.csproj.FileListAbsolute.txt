@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.genruntimeconfig.cache

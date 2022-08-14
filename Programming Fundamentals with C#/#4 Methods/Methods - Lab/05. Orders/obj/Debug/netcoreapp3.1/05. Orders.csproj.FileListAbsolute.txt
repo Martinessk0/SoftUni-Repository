@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05SquareWithMaximumSum.exe
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05SquareWithMaximumSum.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05SquareWithMaximumSum.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05SquareWithMaximumSum.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05SquareWithMaximumSum.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05SquareWithMaximumSum.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05SquareWithMaximumSum.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05SquareWithMaximumSum.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05SquareWithMaximumSum.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05SquareWithMaximumSum.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T05SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05SquareWithMaximumSum.genruntimeconfig.cache

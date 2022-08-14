@@ -1,0 +1,12 @@
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\bin\Debug\netcoreapp3.1\T08BalancedParenthesis.exe
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\bin\Debug\netcoreapp3.1\T08BalancedParenthesis.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\bin\Debug\netcoreapp3.1\T08BalancedParenthesis.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\bin\Debug\netcoreapp3.1\T08BalancedParenthesis.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\bin\Debug\netcoreapp3.1\T08BalancedParenthesis.dll
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\bin\Debug\netcoreapp3.1\T08BalancedParenthesis.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\obj\Debug\netcoreapp3.1\T08BalancedParenthesis.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\obj\Debug\netcoreapp3.1\T08BalancedParenthesis.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\obj\Debug\netcoreapp3.1\T08BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\obj\Debug\netcoreapp3.1\T08BalancedParenthesis.dll
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\obj\Debug\netcoreapp3.1\T08BalancedParenthesis.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T08BalancedParenthesis\obj\Debug\netcoreapp3.1\T08BalancedParenthesis.genruntimeconfig.cache

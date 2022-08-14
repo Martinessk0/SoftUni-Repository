@@ -1,0 +1,13 @@
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\bin\Debug\netcoreapp3.1\T05FashionBoutique.exe
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\bin\Debug\netcoreapp3.1\T05FashionBoutique.deps.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\bin\Debug\netcoreapp3.1\T05FashionBoutique.runtimeconfig.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\bin\Debug\netcoreapp3.1\T05FashionBoutique.runtimeconfig.dev.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\bin\Debug\netcoreapp3.1\T05FashionBoutique.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\bin\Debug\netcoreapp3.1\T05FashionBoutique.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\obj\Debug\netcoreapp3.1\T05FashionBoutique.csprojAssemblyReference.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\obj\Debug\netcoreapp3.1\T05FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\obj\Debug\netcoreapp3.1\T05FashionBoutique.AssemblyInfo.cs
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\obj\Debug\netcoreapp3.1\T05FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\obj\Debug\netcoreapp3.1\T05FashionBoutique.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\obj\Debug\netcoreapp3.1\T05FashionBoutique.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T05FashionBoutique\obj\Debug\netcoreapp3.1\T05FashionBoutique.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\bin\Debug\netcoreapp3.1\T01SumMatrixElements.exe
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\bin\Debug\netcoreapp3.1\T01SumMatrixElements.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\bin\Debug\netcoreapp3.1\T01SumMatrixElements.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\bin\Debug\netcoreapp3.1\T01SumMatrixElements.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\bin\Debug\netcoreapp3.1\T01SumMatrixElements.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\bin\Debug\netcoreapp3.1\T01SumMatrixElements.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\obj\Debug\netcoreapp3.1\T01SumMatrixElements.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\obj\Debug\netcoreapp3.1\T01SumMatrixElements.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\obj\Debug\netcoreapp3.1\T01SumMatrixElements.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\obj\Debug\netcoreapp3.1\T01SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\obj\Debug\netcoreapp3.1\T01SumMatrixElements.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\obj\Debug\netcoreapp3.1\T01SumMatrixElements.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T01SumMatrixElements\obj\Debug\netcoreapp3.1\T01SumMatrixElements.genruntimeconfig.cache

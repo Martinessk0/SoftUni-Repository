@@ -1,0 +1,12 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\bin\Debug\netcoreapp3.1\T08.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\bin\Debug\netcoreapp3.1\T08.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\bin\Debug\netcoreapp3.1\T08.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\bin\Debug\netcoreapp3.1\T08.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\bin\Debug\netcoreapp3.1\T08.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\bin\Debug\netcoreapp3.1\T08.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\obj\Debug\netcoreapp3.1\T08.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\obj\Debug\netcoreapp3.1\T08.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\obj\Debug\netcoreapp3.1\T08.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\obj\Debug\netcoreapp3.1\T08.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\obj\Debug\netcoreapp3.1\T08.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T08\obj\Debug\netcoreapp3.1\T08.genruntimeconfig.cache

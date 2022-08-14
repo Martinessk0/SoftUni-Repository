@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb

@@ -1,0 +1,16 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\bin\Debug\netcoreapp3.1\T04MergeTextFiles.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\bin\Debug\netcoreapp3.1\input1.txt
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\bin\Debug\netcoreapp3.1\input2.txt
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\bin\Debug\netcoreapp3.1\output.txt
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\bin\Debug\netcoreapp3.1\T04MergeTextFiles.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\bin\Debug\netcoreapp3.1\T04MergeTextFiles.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\bin\Debug\netcoreapp3.1\T04MergeTextFiles.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\bin\Debug\netcoreapp3.1\T04MergeTextFiles.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\bin\Debug\netcoreapp3.1\T04MergeTextFiles.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\obj\Debug\netcoreapp3.1\T04MergeTextFiles.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\obj\Debug\netcoreapp3.1\T04MergeTextFiles.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\obj\Debug\netcoreapp3.1\T04MergeTextFiles.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\obj\Debug\netcoreapp3.1\T04MergeTextFiles.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\obj\Debug\netcoreapp3.1\T04MergeTextFiles.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\obj\Debug\netcoreapp3.1\T04MergeTextFiles.genruntimeconfig.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T04\obj\Debug\netcoreapp3.1\T04MergeTextFiles.csprojAssemblyReference.cache

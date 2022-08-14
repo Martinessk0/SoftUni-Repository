@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.exe
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.dll
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.dll
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.genruntimeconfig.cache

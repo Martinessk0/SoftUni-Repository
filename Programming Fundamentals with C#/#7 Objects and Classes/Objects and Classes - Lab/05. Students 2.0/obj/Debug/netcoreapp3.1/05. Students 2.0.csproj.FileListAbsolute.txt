@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.exe
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.dll
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.dll
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.genruntimeconfig.cache

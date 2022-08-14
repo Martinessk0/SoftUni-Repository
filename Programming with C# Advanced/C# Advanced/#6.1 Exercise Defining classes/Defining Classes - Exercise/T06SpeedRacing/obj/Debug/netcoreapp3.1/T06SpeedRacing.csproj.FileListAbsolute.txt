@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\bin\Debug\netcoreapp3.1\T06SpeedRacing.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\bin\Debug\netcoreapp3.1\T06SpeedRacing.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\bin\Debug\netcoreapp3.1\T06SpeedRacing.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\bin\Debug\netcoreapp3.1\T06SpeedRacing.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\bin\Debug\netcoreapp3.1\T06SpeedRacing.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\bin\Debug\netcoreapp3.1\T06SpeedRacing.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\obj\Debug\netcoreapp3.1\T06SpeedRacing.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\obj\Debug\netcoreapp3.1\T06SpeedRacing.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\obj\Debug\netcoreapp3.1\T06SpeedRacing.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\obj\Debug\netcoreapp3.1\T06SpeedRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\obj\Debug\netcoreapp3.1\T06SpeedRacing.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\obj\Debug\netcoreapp3.1\T06SpeedRacing.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T06SpeedRacing\obj\Debug\netcoreapp3.1\T06SpeedRacing.genruntimeconfig.cache

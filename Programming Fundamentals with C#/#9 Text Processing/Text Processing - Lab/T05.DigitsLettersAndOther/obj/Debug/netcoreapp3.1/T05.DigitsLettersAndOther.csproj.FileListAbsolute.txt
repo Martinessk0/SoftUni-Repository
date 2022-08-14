@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\bin\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.exe
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\bin\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\bin\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\bin\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\bin\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.dll
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\bin\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\obj\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\obj\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\obj\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\obj\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\obj\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.dll
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\obj\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T05.DigitsLettersAndOther\obj\Debug\netcoreapp3.1\T05.DigitsLettersAndOther.genruntimeconfig.cache

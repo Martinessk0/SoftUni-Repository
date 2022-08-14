@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\bin\Debug\netcoreapp3.1\T03MaximalSum.exe
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\bin\Debug\netcoreapp3.1\T03MaximalSum.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\bin\Debug\netcoreapp3.1\T03MaximalSum.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\bin\Debug\netcoreapp3.1\T03MaximalSum.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\bin\Debug\netcoreapp3.1\T03MaximalSum.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\bin\Debug\netcoreapp3.1\T03MaximalSum.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\obj\Debug\netcoreapp3.1\T03MaximalSum.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\obj\Debug\netcoreapp3.1\T03MaximalSum.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\obj\Debug\netcoreapp3.1\T03MaximalSum.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\obj\Debug\netcoreapp3.1\T03MaximalSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\obj\Debug\netcoreapp3.1\T03MaximalSum.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\obj\Debug\netcoreapp3.1\T03MaximalSum.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T03MaximalSum\obj\Debug\netcoreapp3.1\T03MaximalSum.genruntimeconfig.cache

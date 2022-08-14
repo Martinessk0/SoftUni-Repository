@@ -1,0 +1,13 @@
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\bin\Debug\netcoreapp3.1\T06SongsQueue.exe
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\bin\Debug\netcoreapp3.1\T06SongsQueue.deps.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\bin\Debug\netcoreapp3.1\T06SongsQueue.runtimeconfig.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\bin\Debug\netcoreapp3.1\T06SongsQueue.runtimeconfig.dev.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\bin\Debug\netcoreapp3.1\T06SongsQueue.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\bin\Debug\netcoreapp3.1\T06SongsQueue.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\obj\Debug\netcoreapp3.1\T06SongsQueue.csprojAssemblyReference.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\obj\Debug\netcoreapp3.1\T06SongsQueue.AssemblyInfoInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\obj\Debug\netcoreapp3.1\T06SongsQueue.AssemblyInfo.cs
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\obj\Debug\netcoreapp3.1\T06SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\obj\Debug\netcoreapp3.1\T06SongsQueue.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\obj\Debug\netcoreapp3.1\T06SongsQueue.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T06SongsQueue\obj\Debug\netcoreapp3.1\T06SongsQueue.genruntimeconfig.cache

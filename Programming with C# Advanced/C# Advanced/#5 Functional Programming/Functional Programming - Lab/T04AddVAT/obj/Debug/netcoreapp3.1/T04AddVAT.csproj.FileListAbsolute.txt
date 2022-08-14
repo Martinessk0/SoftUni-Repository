@@ -1,0 +1,12 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\bin\Debug\netcoreapp3.1\T04AddVAT.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\bin\Debug\netcoreapp3.1\T04AddVAT.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\bin\Debug\netcoreapp3.1\T04AddVAT.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\bin\Debug\netcoreapp3.1\T04AddVAT.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\bin\Debug\netcoreapp3.1\T04AddVAT.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\bin\Debug\netcoreapp3.1\T04AddVAT.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\obj\Debug\netcoreapp3.1\T04AddVAT.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\obj\Debug\netcoreapp3.1\T04AddVAT.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\obj\Debug\netcoreapp3.1\T04AddVAT.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\obj\Debug\netcoreapp3.1\T04AddVAT.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\obj\Debug\netcoreapp3.1\T04AddVAT.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T04AddVAT\obj\Debug\netcoreapp3.1\T04AddVAT.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\bin\Debug\netcoreapp3.1\T01ActionPrint.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\bin\Debug\netcoreapp3.1\T01ActionPrint.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\bin\Debug\netcoreapp3.1\T01ActionPrint.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\bin\Debug\netcoreapp3.1\T01ActionPrint.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\bin\Debug\netcoreapp3.1\T01ActionPrint.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\bin\Debug\netcoreapp3.1\T01ActionPrint.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\obj\Debug\netcoreapp3.1\T01ActionPrint.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\obj\Debug\netcoreapp3.1\T01ActionPrint.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\obj\Debug\netcoreapp3.1\T01ActionPrint.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\obj\Debug\netcoreapp3.1\T01ActionPrint.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\obj\Debug\netcoreapp3.1\T01ActionPrint.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\obj\Debug\netcoreapp3.1\T01ActionPrint.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T01ActionPrint\obj\Debug\netcoreapp3.1\T01ActionPrint.genruntimeconfig.cache

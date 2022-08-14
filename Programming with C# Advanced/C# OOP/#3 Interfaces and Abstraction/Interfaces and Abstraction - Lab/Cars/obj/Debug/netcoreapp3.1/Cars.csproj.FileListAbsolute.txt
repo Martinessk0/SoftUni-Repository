@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3 Interfaces and Abstraction\Interfaces and Abstraction - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

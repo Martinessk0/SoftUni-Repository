@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\bin\Debug\netcoreapp3.1\T03SoftUniBarIncome.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\bin\Debug\netcoreapp3.1\T03SoftUniBarIncome.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\bin\Debug\netcoreapp3.1\T03SoftUniBarIncome.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\bin\Debug\netcoreapp3.1\T03SoftUniBarIncome.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\bin\Debug\netcoreapp3.1\T03SoftUniBarIncome.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\bin\Debug\netcoreapp3.1\T03SoftUniBarIncome.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\obj\Debug\netcoreapp3.1\T03SoftUniBarIncome.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\obj\Debug\netcoreapp3.1\T03SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\obj\Debug\netcoreapp3.1\T03SoftUniBarIncome.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\obj\Debug\netcoreapp3.1\T03SoftUniBarIncome.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\obj\Debug\netcoreapp3.1\T03SoftUniBarIncome.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\obj\Debug\netcoreapp3.1\T03SoftUniBarIncome.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\obj\Debug\netcoreapp3.1\T03SoftUniBarIncome.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10.1 Exercise Regular Expressions\Regular Expressions - Exercise\T03SoftUniBarIncome\obj\Debug\netcoreapp3.1\T03SoftUniBarIncome.genruntimeconfig.cache

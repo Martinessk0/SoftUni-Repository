@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\bin\Debug\netcoreapp3.1\T02SumNumbers.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\bin\Debug\netcoreapp3.1\T02SumNumbers.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\bin\Debug\netcoreapp3.1\T02SumNumbers.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\bin\Debug\netcoreapp3.1\T02SumNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\bin\Debug\netcoreapp3.1\T02SumNumbers.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\bin\Debug\netcoreapp3.1\T02SumNumbers.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\obj\Debug\netcoreapp3.1\T02SumNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\obj\Debug\netcoreapp3.1\T02SumNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\obj\Debug\netcoreapp3.1\T02SumNumbers.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\obj\Debug\netcoreapp3.1\T02SumNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\obj\Debug\netcoreapp3.1\T02SumNumbers.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\obj\Debug\netcoreapp3.1\T02SumNumbers.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T02SumNumbers\obj\Debug\netcoreapp3.1\T02SumNumbers.genruntimeconfig.cache

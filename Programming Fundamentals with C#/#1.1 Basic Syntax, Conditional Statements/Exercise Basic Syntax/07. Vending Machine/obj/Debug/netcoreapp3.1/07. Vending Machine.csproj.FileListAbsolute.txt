@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.exe
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.genruntimeconfig.cache

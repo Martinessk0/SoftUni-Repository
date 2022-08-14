@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\bin\Debug\netcoreapp3.1\T03CountUppercaseWords.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\bin\Debug\netcoreapp3.1\T03CountUppercaseWords.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\bin\Debug\netcoreapp3.1\T03CountUppercaseWords.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\bin\Debug\netcoreapp3.1\T03CountUppercaseWords.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\bin\Debug\netcoreapp3.1\T03CountUppercaseWords.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\bin\Debug\netcoreapp3.1\T03CountUppercaseWords.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\obj\Debug\netcoreapp3.1\T03CountUppercaseWords.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\obj\Debug\netcoreapp3.1\T03CountUppercaseWords.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\obj\Debug\netcoreapp3.1\T03CountUppercaseWords.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\obj\Debug\netcoreapp3.1\T03CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\obj\Debug\netcoreapp3.1\T03CountUppercaseWords.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\obj\Debug\netcoreapp3.1\T03CountUppercaseWords.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T03CountUppercaseWords\obj\Debug\netcoreapp3.1\T03CountUppercaseWords.genruntimeconfig.cache

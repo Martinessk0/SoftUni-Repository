@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.exe
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.dll
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.dll
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.genruntimeconfig.cache

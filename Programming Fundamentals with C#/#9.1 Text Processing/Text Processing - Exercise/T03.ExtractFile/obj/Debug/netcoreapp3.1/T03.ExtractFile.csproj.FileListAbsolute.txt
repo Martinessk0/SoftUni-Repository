@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\bin\Debug\netcoreapp3.1\T03.ExtractFile.exe
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\bin\Debug\netcoreapp3.1\T03.ExtractFile.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\bin\Debug\netcoreapp3.1\T03.ExtractFile.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\bin\Debug\netcoreapp3.1\T03.ExtractFile.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\bin\Debug\netcoreapp3.1\T03.ExtractFile.dll
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\bin\Debug\netcoreapp3.1\T03.ExtractFile.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\obj\Debug\netcoreapp3.1\T03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\obj\Debug\netcoreapp3.1\T03.ExtractFile.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\obj\Debug\netcoreapp3.1\T03.ExtractFile.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\obj\Debug\netcoreapp3.1\T03.ExtractFile.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\obj\Debug\netcoreapp3.1\T03.ExtractFile.dll
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\obj\Debug\netcoreapp3.1\T03.ExtractFile.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T03.ExtractFile\obj\Debug\netcoreapp3.1\T03.ExtractFile.genruntimeconfig.cache

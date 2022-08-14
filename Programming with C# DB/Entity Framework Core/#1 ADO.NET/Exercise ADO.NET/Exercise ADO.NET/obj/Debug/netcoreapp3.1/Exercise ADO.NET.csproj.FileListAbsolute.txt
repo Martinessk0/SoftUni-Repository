@@ -1,0 +1,21 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\Exercise ADO.NET.exe
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\Exercise ADO.NET.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\Exercise ADO.NET.runtimeconfig.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\Exercise ADO.NET.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\Exercise ADO.NET.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\Exercise ADO.NET.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\obj\Debug\netcoreapp3.1\Exercise ADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\obj\Debug\netcoreapp3.1\Exercise ADO.NET.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\obj\Debug\netcoreapp3.1\Exercise ADO.NET.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\obj\Debug\netcoreapp3.1\Exercise ADO.NET.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\obj\Debug\netcoreapp3.1\Exercise ADO.NET.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\obj\Debug\netcoreapp3.1\Exercise ADO.NET.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\obj\Debug\netcoreapp3.1\Exercise ADO.NET.genruntimeconfig.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\obj\Debug\netcoreapp3.1\Exercise ADO.NET.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\Exercise ADO.NET\Exercise ADO.NET\obj\Debug\netcoreapp3.1\Exercise ADO.NET.csproj.CopyComplete

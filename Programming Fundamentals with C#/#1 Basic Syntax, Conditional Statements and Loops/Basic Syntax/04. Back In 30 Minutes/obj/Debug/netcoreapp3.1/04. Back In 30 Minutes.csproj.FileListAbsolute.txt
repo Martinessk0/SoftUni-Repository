@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.exe
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.dll
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.dll
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.genruntimeconfig.cache

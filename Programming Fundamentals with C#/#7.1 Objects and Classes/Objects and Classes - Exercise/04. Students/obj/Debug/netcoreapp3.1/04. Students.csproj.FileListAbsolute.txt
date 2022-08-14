@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.exe
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.dll
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.dll
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7.1 Exercise Objects and Classes\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.genruntimeconfig.cache

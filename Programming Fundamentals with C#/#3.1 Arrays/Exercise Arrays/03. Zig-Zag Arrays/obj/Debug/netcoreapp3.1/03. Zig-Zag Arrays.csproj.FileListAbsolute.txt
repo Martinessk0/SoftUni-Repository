@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.exe
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.dll
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.dll
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.genruntimeconfig.cache

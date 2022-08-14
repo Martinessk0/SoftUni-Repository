@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.exe
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.AssemblyReference.cache

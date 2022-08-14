@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\bin\Debug\netcoreapp3.1\T06JaggedArrayModification.exe
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\bin\Debug\netcoreapp3.1\T06JaggedArrayModification.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\bin\Debug\netcoreapp3.1\T06JaggedArrayModification.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\bin\Debug\netcoreapp3.1\T06JaggedArrayModification.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\bin\Debug\netcoreapp3.1\T06JaggedArrayModification.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\bin\Debug\netcoreapp3.1\T06JaggedArrayModification.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\obj\Debug\netcoreapp3.1\T06JaggedArrayModification.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\obj\Debug\netcoreapp3.1\T06JaggedArrayModification.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\obj\Debug\netcoreapp3.1\T06JaggedArrayModification.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\obj\Debug\netcoreapp3.1\T06JaggedArrayModification.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\obj\Debug\netcoreapp3.1\T06JaggedArrayModification.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\obj\Debug\netcoreapp3.1\T06JaggedArrayModification.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T06JaggedArrayModification\obj\Debug\netcoreapp3.1\T06JaggedArrayModification.genruntimeconfig.cache

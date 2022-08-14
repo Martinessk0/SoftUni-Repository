@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\bin\Debug\netcoreapp3.1\T01ReverseStrings.exe
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\bin\Debug\netcoreapp3.1\T01ReverseStrings.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\bin\Debug\netcoreapp3.1\T01ReverseStrings.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\bin\Debug\netcoreapp3.1\T01ReverseStrings.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\bin\Debug\netcoreapp3.1\T01ReverseStrings.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\bin\Debug\netcoreapp3.1\T01ReverseStrings.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\obj\Debug\netcoreapp3.1\T01ReverseStrings.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\obj\Debug\netcoreapp3.1\T01ReverseStrings.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\obj\Debug\netcoreapp3.1\T01ReverseStrings.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\obj\Debug\netcoreapp3.1\T01ReverseStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\obj\Debug\netcoreapp3.1\T01ReverseStrings.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\obj\Debug\netcoreapp3.1\T01ReverseStrings.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T01ReverseStrings\obj\Debug\netcoreapp3.1\T01ReverseStrings.genruntimeconfig.cache

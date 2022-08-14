@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\bin\Debug\netcoreapp3.1\T01MatchFullName.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\bin\Debug\netcoreapp3.1\T01MatchFullName.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\bin\Debug\netcoreapp3.1\T01MatchFullName.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\bin\Debug\netcoreapp3.1\T01MatchFullName.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\bin\Debug\netcoreapp3.1\T01MatchFullName.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\bin\Debug\netcoreapp3.1\T01MatchFullName.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\obj\Debug\netcoreapp3.1\T01MatchFullName.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\obj\Debug\netcoreapp3.1\T01MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\obj\Debug\netcoreapp3.1\T01MatchFullName.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\obj\Debug\netcoreapp3.1\T01MatchFullName.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\obj\Debug\netcoreapp3.1\T01MatchFullName.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\obj\Debug\netcoreapp3.1\T01MatchFullName.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\obj\Debug\netcoreapp3.1\T01MatchFullName.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T01MatchFullName\obj\Debug\netcoreapp3.1\T01MatchFullName.genruntimeconfig.cache

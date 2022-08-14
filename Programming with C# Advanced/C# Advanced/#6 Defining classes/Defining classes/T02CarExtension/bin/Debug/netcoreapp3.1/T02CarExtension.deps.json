@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "T02CarExtension/1.0.0": {
+        "runtime": {
+          "T02CarExtension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T02CarExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

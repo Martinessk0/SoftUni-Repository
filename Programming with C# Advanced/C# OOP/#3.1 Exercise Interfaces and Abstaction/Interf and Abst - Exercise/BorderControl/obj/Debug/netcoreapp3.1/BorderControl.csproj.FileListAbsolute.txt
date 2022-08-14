@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

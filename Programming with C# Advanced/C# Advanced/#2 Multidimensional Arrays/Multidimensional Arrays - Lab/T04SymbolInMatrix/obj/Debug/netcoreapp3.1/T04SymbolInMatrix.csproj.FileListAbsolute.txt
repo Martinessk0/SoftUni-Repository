@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\bin\Debug\netcoreapp3.1\T04SymbolInMatrix.exe
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\bin\Debug\netcoreapp3.1\T04SymbolInMatrix.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\bin\Debug\netcoreapp3.1\T04SymbolInMatrix.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\bin\Debug\netcoreapp3.1\T04SymbolInMatrix.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\bin\Debug\netcoreapp3.1\T04SymbolInMatrix.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\bin\Debug\netcoreapp3.1\T04SymbolInMatrix.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\obj\Debug\netcoreapp3.1\T04SymbolInMatrix.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\obj\Debug\netcoreapp3.1\T04SymbolInMatrix.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\obj\Debug\netcoreapp3.1\T04SymbolInMatrix.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\obj\Debug\netcoreapp3.1\T04SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\obj\Debug\netcoreapp3.1\T04SymbolInMatrix.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\obj\Debug\netcoreapp3.1\T04SymbolInMatrix.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T04SymbolInMatrix\obj\Debug\netcoreapp3.1\T04SymbolInMatrix.genruntimeconfig.cache

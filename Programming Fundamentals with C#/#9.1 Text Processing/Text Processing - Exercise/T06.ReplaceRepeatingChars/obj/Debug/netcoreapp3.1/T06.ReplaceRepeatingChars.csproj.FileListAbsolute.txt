@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#9.1 Exercise Text Processing\Text Processing - Exercise\T06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\T06.ReplaceRepeatingChars.genruntimeconfig.cache

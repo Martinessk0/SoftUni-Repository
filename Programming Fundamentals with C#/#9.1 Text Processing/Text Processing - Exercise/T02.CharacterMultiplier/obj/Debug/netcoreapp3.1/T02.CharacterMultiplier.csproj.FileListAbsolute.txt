@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\bin\Debug\netcoreapp3.1\T02.CharacterMultiplier.exe
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\bin\Debug\netcoreapp3.1\T02.CharacterMultiplier.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\bin\Debug\netcoreapp3.1\T02.CharacterMultiplier.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\bin\Debug\netcoreapp3.1\T02.CharacterMultiplier.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\bin\Debug\netcoreapp3.1\T02.CharacterMultiplier.dll
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\bin\Debug\netcoreapp3.1\T02.CharacterMultiplier.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\obj\Debug\netcoreapp3.1\T02.CharacterMultiplier.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\obj\Debug\netcoreapp3.1\T02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\obj\Debug\netcoreapp3.1\T02.CharacterMultiplier.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\obj\Debug\netcoreapp3.1\T02.CharacterMultiplier.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\obj\Debug\netcoreapp3.1\T02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\obj\Debug\netcoreapp3.1\T02.CharacterMultiplier.dll
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\obj\Debug\netcoreapp3.1\T02.CharacterMultiplier.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9.1 Exercise Text Processing\Text Processing - Exercise\T02.CharacterMultiplier\obj\Debug\netcoreapp3.1\T02.CharacterMultiplier.genruntimeconfig.cache

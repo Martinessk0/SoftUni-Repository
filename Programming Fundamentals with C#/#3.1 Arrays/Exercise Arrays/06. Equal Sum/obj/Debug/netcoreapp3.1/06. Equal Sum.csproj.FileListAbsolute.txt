@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.exe
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.dll
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.dll
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3.1 Exercise Arrays\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.genruntimeconfig.cache

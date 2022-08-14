@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.exe
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.dll
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.dll
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.genruntimeconfig.cache

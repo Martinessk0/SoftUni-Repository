@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\bin\Debug\netcoreapp3.1\T03OldestFamilyMembe.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\bin\Debug\netcoreapp3.1\T03OldestFamilyMembe.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\bin\Debug\netcoreapp3.1\T03OldestFamilyMembe.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\bin\Debug\netcoreapp3.1\T03OldestFamilyMembe.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\bin\Debug\netcoreapp3.1\T03OldestFamilyMembe.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\bin\Debug\netcoreapp3.1\T03OldestFamilyMembe.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\obj\Debug\netcoreapp3.1\T03OldestFamilyMembe.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\obj\Debug\netcoreapp3.1\T03OldestFamilyMembe.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\obj\Debug\netcoreapp3.1\T03OldestFamilyMembe.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\obj\Debug\netcoreapp3.1\T03OldestFamilyMembe.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\obj\Debug\netcoreapp3.1\T03OldestFamilyMembe.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\obj\Debug\netcoreapp3.1\T03OldestFamilyMembe.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T03OldestFamilyMembe\obj\Debug\netcoreapp3.1\T03OldestFamilyMembe.genruntimeconfig.cache

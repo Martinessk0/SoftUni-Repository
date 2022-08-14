@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\bin\Debug\netcoreapp3.1\07,2.exe
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\bin\Debug\netcoreapp3.1\07,2.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\bin\Debug\netcoreapp3.1\07,2.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\bin\Debug\netcoreapp3.1\07,2.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\bin\Debug\netcoreapp3.1\07,2.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\bin\Debug\netcoreapp3.1\07,2.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\obj\Debug\netcoreapp3.1\07,2.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\obj\Debug\netcoreapp3.1\07,2.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\obj\Debug\netcoreapp3.1\07,2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\obj\Debug\netcoreapp3.1\07,2.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\obj\Debug\netcoreapp3.1\07,2.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\07,2\obj\Debug\netcoreapp3.1\07,2.genruntimeconfig.cache

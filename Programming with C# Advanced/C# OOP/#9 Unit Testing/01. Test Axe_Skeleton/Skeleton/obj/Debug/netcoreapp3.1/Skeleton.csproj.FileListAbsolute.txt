@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9 Unit Testing\01. Test Axe_Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

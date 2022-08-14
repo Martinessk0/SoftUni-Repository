@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.exe
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.dll
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.pdb
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.dll
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.pdb
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.genruntimeconfig.cache

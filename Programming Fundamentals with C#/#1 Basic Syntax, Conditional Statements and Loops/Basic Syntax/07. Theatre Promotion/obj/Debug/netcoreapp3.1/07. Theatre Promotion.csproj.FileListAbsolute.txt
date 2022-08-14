@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.exe
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.dll
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\bin\Debug\netcoreapp3.1\07. Theatre Promotion.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.dll
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\07. Theatre Promotion\obj\Debug\netcoreapp3.1\07. Theatre Promotion.genruntimeconfig.cache

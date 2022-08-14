@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\bin\Debug\netcoreapp3.1\T05SnakeMoves.exe
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\bin\Debug\netcoreapp3.1\T05SnakeMoves.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\bin\Debug\netcoreapp3.1\T05SnakeMoves.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\bin\Debug\netcoreapp3.1\T05SnakeMoves.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\bin\Debug\netcoreapp3.1\T05SnakeMoves.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\bin\Debug\netcoreapp3.1\T05SnakeMoves.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\obj\Debug\netcoreapp3.1\T05SnakeMoves.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\obj\Debug\netcoreapp3.1\T05SnakeMoves.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\obj\Debug\netcoreapp3.1\T05SnakeMoves.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\obj\Debug\netcoreapp3.1\T05SnakeMoves.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\obj\Debug\netcoreapp3.1\T05SnakeMoves.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\obj\Debug\netcoreapp3.1\T05SnakeMoves.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T05SnakeMoves\obj\Debug\netcoreapp3.1\T05SnakeMoves.genruntimeconfig.cache

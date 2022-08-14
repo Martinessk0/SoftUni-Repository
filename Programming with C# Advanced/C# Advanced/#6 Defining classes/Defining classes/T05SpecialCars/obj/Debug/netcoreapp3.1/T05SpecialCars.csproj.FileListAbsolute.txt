@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\bin\Debug\netcoreapp3.1\T05SpecialCars.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\bin\Debug\netcoreapp3.1\T05SpecialCars.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\bin\Debug\netcoreapp3.1\T05SpecialCars.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\bin\Debug\netcoreapp3.1\T05SpecialCars.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\bin\Debug\netcoreapp3.1\T05SpecialCars.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\bin\Debug\netcoreapp3.1\T05SpecialCars.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\obj\Debug\netcoreapp3.1\T05SpecialCars.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\obj\Debug\netcoreapp3.1\T05SpecialCars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\obj\Debug\netcoreapp3.1\T05SpecialCars.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\obj\Debug\netcoreapp3.1\T05SpecialCars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\obj\Debug\netcoreapp3.1\T05SpecialCars.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\obj\Debug\netcoreapp3.1\T05SpecialCars.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T05SpecialCars\obj\Debug\netcoreapp3.1\T05SpecialCars.genruntimeconfig.cache

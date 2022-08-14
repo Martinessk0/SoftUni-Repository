@@ -1,0 +1,14 @@
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

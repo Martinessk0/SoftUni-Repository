@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.exe
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.dll
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.pdb
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.dll
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.pdb
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.genruntimeconfig.cache

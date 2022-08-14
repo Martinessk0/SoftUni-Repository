@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\bin\Debug\netcoreapp3.1\T02StackSum.exe
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\bin\Debug\netcoreapp3.1\T02StackSum.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\bin\Debug\netcoreapp3.1\T02StackSum.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\bin\Debug\netcoreapp3.1\T02StackSum.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\bin\Debug\netcoreapp3.1\T02StackSum.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\bin\Debug\netcoreapp3.1\T02StackSum.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\obj\Debug\netcoreapp3.1\T02StackSum.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\obj\Debug\netcoreapp3.1\T02StackSum.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\obj\Debug\netcoreapp3.1\T02StackSum.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\obj\Debug\netcoreapp3.1\T02StackSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\obj\Debug\netcoreapp3.1\T02StackSum.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\obj\Debug\netcoreapp3.1\T02StackSum.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T02StackSum\obj\Debug\netcoreapp3.1\T02StackSum.genruntimeconfig.cache

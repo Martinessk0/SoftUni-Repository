@@ -1,0 +1,14 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\bin\Debug\netcoreapp3.1\listpres.exe
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\bin\Debug\netcoreapp3.1\listpres.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\bin\Debug\netcoreapp3.1\listpres.runtimeconfig.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\bin\Debug\netcoreapp3.1\listpres.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\bin\Debug\netcoreapp3.1\listpres.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\bin\Debug\netcoreapp3.1\listpres.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\obj\Debug\netcoreapp3.1\listpres.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\obj\Debug\netcoreapp3.1\listpres.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\obj\Debug\netcoreapp3.1\listpres.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\obj\Debug\netcoreapp3.1\listpres.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\obj\Debug\netcoreapp3.1\listpres.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\obj\Debug\netcoreapp3.1\listpres.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\obj\Debug\netcoreapp3.1\listpres.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 ADO.NET\listpres\listpres\obj\Debug\netcoreapp3.1\listpres.genruntimeconfig.cache

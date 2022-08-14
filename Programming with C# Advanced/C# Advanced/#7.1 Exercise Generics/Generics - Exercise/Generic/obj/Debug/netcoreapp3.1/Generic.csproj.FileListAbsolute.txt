@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\bin\Debug\netcoreapp3.1\Generic.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\bin\Debug\netcoreapp3.1\Generic.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\bin\Debug\netcoreapp3.1\Generic.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\bin\Debug\netcoreapp3.1\Generic.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\obj\Debug\netcoreapp3.1\Generic.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\obj\Debug\netcoreapp3.1\Generic.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\obj\Debug\netcoreapp3.1\Generic.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Generic\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache

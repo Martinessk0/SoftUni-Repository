@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.exe
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.dll
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.dll
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.genruntimeconfig.cache

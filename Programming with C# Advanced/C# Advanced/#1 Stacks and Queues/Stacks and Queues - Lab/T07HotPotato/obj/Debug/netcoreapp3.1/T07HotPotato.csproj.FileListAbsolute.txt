@@ -1,0 +1,12 @@
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\bin\Debug\netcoreapp3.1\T07HotPotato.exe
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\bin\Debug\netcoreapp3.1\T07HotPotato.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\bin\Debug\netcoreapp3.1\T07HotPotato.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\bin\Debug\netcoreapp3.1\T07HotPotato.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\bin\Debug\netcoreapp3.1\T07HotPotato.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\bin\Debug\netcoreapp3.1\T07HotPotato.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\obj\Debug\netcoreapp3.1\T07HotPotato.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\obj\Debug\netcoreapp3.1\T07HotPotato.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\obj\Debug\netcoreapp3.1\T07HotPotato.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\obj\Debug\netcoreapp3.1\T07HotPotato.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\obj\Debug\netcoreapp3.1\T07HotPotato.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T07HotPotato\obj\Debug\netcoreapp3.1\T07HotPotato.genruntimeconfig.cache

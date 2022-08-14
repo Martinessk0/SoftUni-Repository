@@ -1,0 +1,10 @@
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

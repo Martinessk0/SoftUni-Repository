@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.exe
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4 Methods\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.genruntimeconfig.cache

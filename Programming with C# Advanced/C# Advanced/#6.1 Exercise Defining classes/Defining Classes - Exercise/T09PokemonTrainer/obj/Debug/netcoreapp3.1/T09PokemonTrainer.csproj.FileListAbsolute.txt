@@ -1,0 +1,12 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\obj\Debug\netcoreapp3.1\T09PokemonTrainer.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\obj\Debug\netcoreapp3.1\T09PokemonTrainer.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\obj\Debug\netcoreapp3.1\T09PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\bin\Debug\netcoreapp3.1\T09PokemonTrainer.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\bin\Debug\netcoreapp3.1\T09PokemonTrainer.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\bin\Debug\netcoreapp3.1\T09PokemonTrainer.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\bin\Debug\netcoreapp3.1\T09PokemonTrainer.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\bin\Debug\netcoreapp3.1\T09PokemonTrainer.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\bin\Debug\netcoreapp3.1\T09PokemonTrainer.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\obj\Debug\netcoreapp3.1\T09PokemonTrainer.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\obj\Debug\netcoreapp3.1\T09PokemonTrainer.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T09PokemonTrainer\obj\Debug\netcoreapp3.1\T09PokemonTrainer.genruntimeconfig.cache

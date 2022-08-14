@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\bin\Debug\netcoreapp3.1\T04OpinionPoll.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\bin\Debug\netcoreapp3.1\T04OpinionPoll.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\bin\Debug\netcoreapp3.1\T04OpinionPoll.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\bin\Debug\netcoreapp3.1\T04OpinionPoll.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\bin\Debug\netcoreapp3.1\T04OpinionPoll.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\bin\Debug\netcoreapp3.1\T04OpinionPoll.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\obj\Debug\netcoreapp3.1\T04OpinionPoll.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\obj\Debug\netcoreapp3.1\T04OpinionPoll.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\obj\Debug\netcoreapp3.1\T04OpinionPoll.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\obj\Debug\netcoreapp3.1\T04OpinionPoll.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\obj\Debug\netcoreapp3.1\T04OpinionPoll.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\obj\Debug\netcoreapp3.1\T04OpinionPoll.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T04OpinionPoll\obj\Debug\netcoreapp3.1\T04OpinionPoll.genruntimeconfig.cache

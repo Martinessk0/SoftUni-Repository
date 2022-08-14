@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.exe
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.dll
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.dll
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+D:\SoftUni\Programming Fundamentals with C#\#2.1 Exercise Data Types and Variables\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.genruntimeconfig.cache

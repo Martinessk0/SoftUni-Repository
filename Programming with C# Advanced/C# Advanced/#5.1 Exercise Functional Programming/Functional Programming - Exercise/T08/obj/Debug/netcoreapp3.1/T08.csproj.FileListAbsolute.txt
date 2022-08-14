@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\bin\Debug\netcoreapp3.1\T08.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\bin\Debug\netcoreapp3.1\T08.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\bin\Debug\netcoreapp3.1\T08.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\bin\Debug\netcoreapp3.1\T08.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\bin\Debug\netcoreapp3.1\T08.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\bin\Debug\netcoreapp3.1\T08.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\obj\Debug\netcoreapp3.1\T08.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\obj\Debug\netcoreapp3.1\T08.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\obj\Debug\netcoreapp3.1\T08.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\obj\Debug\netcoreapp3.1\T08.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\obj\Debug\netcoreapp3.1\T08.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\obj\Debug\netcoreapp3.1\T08.genruntimeconfig.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5.1 Exercise Functional Programming\Functional Programming - Exercise\T08\obj\Debug\netcoreapp3.1\T08.csprojAssemblyReference.cache

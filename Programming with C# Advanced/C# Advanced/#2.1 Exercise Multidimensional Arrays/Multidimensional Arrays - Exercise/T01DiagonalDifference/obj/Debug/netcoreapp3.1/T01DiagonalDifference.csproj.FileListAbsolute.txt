@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\bin\Debug\netcoreapp3.1\T01DiagonalDifference.exe
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\bin\Debug\netcoreapp3.1\T01DiagonalDifference.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\bin\Debug\netcoreapp3.1\T01DiagonalDifference.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\bin\Debug\netcoreapp3.1\T01DiagonalDifference.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\bin\Debug\netcoreapp3.1\T01DiagonalDifference.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\bin\Debug\netcoreapp3.1\T01DiagonalDifference.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\obj\Debug\netcoreapp3.1\T01DiagonalDifference.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\obj\Debug\netcoreapp3.1\T01DiagonalDifference.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\obj\Debug\netcoreapp3.1\T01DiagonalDifference.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\obj\Debug\netcoreapp3.1\T01DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\obj\Debug\netcoreapp3.1\T01DiagonalDifference.dll
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\obj\Debug\netcoreapp3.1\T01DiagonalDifference.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2.1 Exercise Multidimensional Arrays\Multidimensional Arrays - Exercise\T01DiagonalDifference\obj\Debug\netcoreapp3.1\T01DiagonalDifference.genruntimeconfig.cache

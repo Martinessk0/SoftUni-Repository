@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\obj\Debug\netcoreapp2.1\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#9 Exam Prep\December 13\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache

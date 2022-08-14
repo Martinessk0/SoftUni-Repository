@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\bin\Debug\netcoreapp3.1\T03PrimaryDiagonal.exe
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\bin\Debug\netcoreapp3.1\T03PrimaryDiagonal.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\bin\Debug\netcoreapp3.1\T03PrimaryDiagonal.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\bin\Debug\netcoreapp3.1\T03PrimaryDiagonal.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\bin\Debug\netcoreapp3.1\T03PrimaryDiagonal.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\bin\Debug\netcoreapp3.1\T03PrimaryDiagonal.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\obj\Debug\netcoreapp3.1\T03PrimaryDiagonal.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\obj\Debug\netcoreapp3.1\T03PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\obj\Debug\netcoreapp3.1\T03PrimaryDiagonal.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\obj\Debug\netcoreapp3.1\T03PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\obj\Debug\netcoreapp3.1\T03PrimaryDiagonal.dll
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\obj\Debug\netcoreapp3.1\T03PrimaryDiagonal.pdb
+D:\SoftUni\C# Advanced - януари 2022\#2 Multidimensional Arrays\Multidimensional Arrays - Lab\T03PrimaryDiagonal\obj\Debug\netcoreapp3.1\T03PrimaryDiagonal.genruntimeconfig.cache

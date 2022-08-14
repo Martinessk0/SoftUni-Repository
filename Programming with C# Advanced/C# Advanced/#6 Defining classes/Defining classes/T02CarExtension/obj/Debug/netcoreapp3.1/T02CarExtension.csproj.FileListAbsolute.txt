@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\bin\Debug\netcoreapp3.1\T02CarExtension.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\bin\Debug\netcoreapp3.1\T02CarExtension.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\bin\Debug\netcoreapp3.1\T02CarExtension.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\bin\Debug\netcoreapp3.1\T02CarExtension.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\bin\Debug\netcoreapp3.1\T02CarExtension.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\bin\Debug\netcoreapp3.1\T02CarExtension.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\obj\Debug\netcoreapp3.1\T02CarExtension.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\obj\Debug\netcoreapp3.1\T02CarExtension.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\obj\Debug\netcoreapp3.1\T02CarExtension.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\obj\Debug\netcoreapp3.1\T02CarExtension.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\obj\Debug\netcoreapp3.1\T02CarExtension.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\obj\Debug\netcoreapp3.1\T02CarExtension.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T02CarExtension\obj\Debug\netcoreapp3.1\T02CarExtension.genruntimeconfig.cache

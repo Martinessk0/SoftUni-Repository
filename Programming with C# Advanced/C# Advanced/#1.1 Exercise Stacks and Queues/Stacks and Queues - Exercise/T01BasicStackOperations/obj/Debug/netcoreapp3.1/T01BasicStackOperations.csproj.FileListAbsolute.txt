@@ -1,0 +1,26 @@
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.exe
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.deps.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.runtimeconfig.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.runtimeconfig.dev.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.AssemblyInfo.cs
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.exe
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.dll
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\bin\Debug\netcoreapp3.1\T01BasicStackOperations.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.dll
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1.1 Exercise Stacks and Queues\Stacks and Queues - Exercise\T01BasicStackOperations\obj\Debug\netcoreapp3.1\T01BasicStackOperations.genruntimeconfig.cache

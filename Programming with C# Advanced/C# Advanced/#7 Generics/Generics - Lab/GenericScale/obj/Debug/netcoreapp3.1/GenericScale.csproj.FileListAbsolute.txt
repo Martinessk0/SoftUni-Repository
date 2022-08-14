@@ -1,0 +1,12 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache

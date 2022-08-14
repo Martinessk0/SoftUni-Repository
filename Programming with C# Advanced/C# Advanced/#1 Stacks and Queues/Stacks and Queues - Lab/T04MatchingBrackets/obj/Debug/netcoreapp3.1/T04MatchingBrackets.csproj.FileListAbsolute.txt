@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\bin\Debug\netcoreapp3.1\T04MatchingBrackets.exe
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\bin\Debug\netcoreapp3.1\T04MatchingBrackets.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\bin\Debug\netcoreapp3.1\T04MatchingBrackets.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\bin\Debug\netcoreapp3.1\T04MatchingBrackets.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\bin\Debug\netcoreapp3.1\T04MatchingBrackets.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\bin\Debug\netcoreapp3.1\T04MatchingBrackets.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\obj\Debug\netcoreapp3.1\T04MatchingBrackets.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\obj\Debug\netcoreapp3.1\T04MatchingBrackets.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\obj\Debug\netcoreapp3.1\T04MatchingBrackets.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\obj\Debug\netcoreapp3.1\T04MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\obj\Debug\netcoreapp3.1\T04MatchingBrackets.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\obj\Debug\netcoreapp3.1\T04MatchingBrackets.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T04MatchingBrackets\obj\Debug\netcoreapp3.1\T04MatchingBrackets.genruntimeconfig.cache

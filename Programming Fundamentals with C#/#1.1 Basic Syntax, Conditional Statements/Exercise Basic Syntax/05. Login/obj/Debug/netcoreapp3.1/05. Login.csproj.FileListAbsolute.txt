@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

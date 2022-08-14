@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\bin\Debug\netcoreapp3.1\T03MatchDates.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\bin\Debug\netcoreapp3.1\T03MatchDates.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\bin\Debug\netcoreapp3.1\T03MatchDates.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\bin\Debug\netcoreapp3.1\T03MatchDates.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\bin\Debug\netcoreapp3.1\T03MatchDates.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\bin\Debug\netcoreapp3.1\T03MatchDates.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\obj\Debug\netcoreapp3.1\T03MatchDates.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\obj\Debug\netcoreapp3.1\T03MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\obj\Debug\netcoreapp3.1\T03MatchDates.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\obj\Debug\netcoreapp3.1\T03MatchDates.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\obj\Debug\netcoreapp3.1\T03MatchDates.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\obj\Debug\netcoreapp3.1\T03MatchDates.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\obj\Debug\netcoreapp3.1\T03MatchDates.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2021\#10 Regular Expressions\Regular Expressions - Lab\T03MatchDates\obj\Debug\netcoreapp3.1\T03MatchDates.genruntimeconfig.cache

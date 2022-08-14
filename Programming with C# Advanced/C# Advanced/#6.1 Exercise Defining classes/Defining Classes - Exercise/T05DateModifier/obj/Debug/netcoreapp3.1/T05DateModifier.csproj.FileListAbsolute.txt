@@ -1,0 +1,12 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\bin\Debug\netcoreapp3.1\T05DateModifier.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\bin\Debug\netcoreapp3.1\T05DateModifier.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\bin\Debug\netcoreapp3.1\T05DateModifier.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\bin\Debug\netcoreapp3.1\T05DateModifier.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\bin\Debug\netcoreapp3.1\T05DateModifier.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\bin\Debug\netcoreapp3.1\T05DateModifier.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\obj\Debug\netcoreapp3.1\T05DateModifier.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\obj\Debug\netcoreapp3.1\T05DateModifier.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\obj\Debug\netcoreapp3.1\T05DateModifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\obj\Debug\netcoreapp3.1\T05DateModifier.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\obj\Debug\netcoreapp3.1\T05DateModifier.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T05DateModifier\obj\Debug\netcoreapp3.1\T05DateModifier.genruntimeconfig.cache

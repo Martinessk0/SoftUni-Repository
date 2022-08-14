@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache

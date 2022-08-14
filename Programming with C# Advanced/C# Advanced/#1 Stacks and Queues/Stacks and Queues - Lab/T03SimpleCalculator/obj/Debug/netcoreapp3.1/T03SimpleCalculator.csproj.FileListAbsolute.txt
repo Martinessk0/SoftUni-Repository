@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\bin\Debug\netcoreapp3.1\T03SimpleCalculator.exe
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\bin\Debug\netcoreapp3.1\T03SimpleCalculator.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\bin\Debug\netcoreapp3.1\T03SimpleCalculator.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\bin\Debug\netcoreapp3.1\T03SimpleCalculator.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\bin\Debug\netcoreapp3.1\T03SimpleCalculator.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\bin\Debug\netcoreapp3.1\T03SimpleCalculator.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\obj\Debug\netcoreapp3.1\T03SimpleCalculator.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\obj\Debug\netcoreapp3.1\T03SimpleCalculator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\obj\Debug\netcoreapp3.1\T03SimpleCalculator.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\obj\Debug\netcoreapp3.1\T03SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\obj\Debug\netcoreapp3.1\T03SimpleCalculator.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\obj\Debug\netcoreapp3.1\T03SimpleCalculator.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T03SimpleCalculator\obj\Debug\netcoreapp3.1\T03SimpleCalculator.genruntimeconfig.cache

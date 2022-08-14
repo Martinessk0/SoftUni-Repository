@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.exe
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.genruntimeconfig.cache

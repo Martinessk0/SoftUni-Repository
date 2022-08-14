@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.exe
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.dll
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.pdb
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.dll
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.pdb
+D:\SoftUni\Programming Fundamentals with C#\#5.1 Exercise List\Exercise List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.genruntimeconfig.cache

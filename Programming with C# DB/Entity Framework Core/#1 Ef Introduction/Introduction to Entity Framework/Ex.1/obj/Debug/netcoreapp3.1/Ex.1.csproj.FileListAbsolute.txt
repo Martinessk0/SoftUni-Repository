@@ -1,0 +1,14 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\bin\Debug\netcoreapp3.1\Ex.1.exe
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\bin\Debug\netcoreapp3.1\Ex.1.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\bin\Debug\netcoreapp3.1\Ex.1.runtimeconfig.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\bin\Debug\netcoreapp3.1\Ex.1.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\bin\Debug\netcoreapp3.1\Ex.1.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\bin\Debug\netcoreapp3.1\Ex.1.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\obj\Debug\netcoreapp3.1\Ex.1.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\obj\Debug\netcoreapp3.1\Ex.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\obj\Debug\netcoreapp3.1\Ex.1.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\obj\Debug\netcoreapp3.1\Ex.1.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\obj\Debug\netcoreapp3.1\Ex.1.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\obj\Debug\netcoreapp3.1\Ex.1.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\obj\Debug\netcoreapp3.1\Ex.1.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#1 Entity Framework Introduction\Introduction to Entity Framework\Ex.1\obj\Debug\netcoreapp3.1\Ex.1.genruntimeconfig.cache

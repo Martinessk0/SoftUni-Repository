@@ -1,0 +1,12 @@
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\bin\Debug\netcoreapp3.1\T04FastFood.exe
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\bin\Debug\netcoreapp3.1\T04FastFood.deps.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\bin\Debug\netcoreapp3.1\T04FastFood.runtimeconfig.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\bin\Debug\netcoreapp3.1\T04FastFood.runtimeconfig.dev.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\bin\Debug\netcoreapp3.1\T04FastFood.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\bin\Debug\netcoreapp3.1\T04FastFood.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\obj\Debug\netcoreapp3.1\T04FastFood.AssemblyInfoInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\obj\Debug\netcoreapp3.1\T04FastFood.AssemblyInfo.cs
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\obj\Debug\netcoreapp3.1\T04FastFood.csproj.CoreCompileInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\obj\Debug\netcoreapp3.1\T04FastFood.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\obj\Debug\netcoreapp3.1\T04FastFood.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T04FastFood\obj\Debug\netcoreapp3.1\T04FastFood.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Data.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Data.runtimeconfig.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Data.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Data.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Data.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Data.Models.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Data.Models.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Data.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Data.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Data.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Data.csproj.CopyComplete
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Data.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Data.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#3 LINQ\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Data.genruntimeconfig.cache

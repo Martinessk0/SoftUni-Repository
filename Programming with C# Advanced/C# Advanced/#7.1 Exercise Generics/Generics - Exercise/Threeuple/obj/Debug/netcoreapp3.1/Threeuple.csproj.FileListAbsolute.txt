@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7.1 Exercise Generics\Generics - Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache

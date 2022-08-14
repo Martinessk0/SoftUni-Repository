@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.runtimeconfig.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.genruntimeconfig.cache

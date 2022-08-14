@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\bin\Debug\netcoreapp3.1\T04.TextFilter.exe
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\bin\Debug\netcoreapp3.1\T04.TextFilter.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\bin\Debug\netcoreapp3.1\T04.TextFilter.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\bin\Debug\netcoreapp3.1\T04.TextFilter.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\bin\Debug\netcoreapp3.1\T04.TextFilter.dll
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\bin\Debug\netcoreapp3.1\T04.TextFilter.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\obj\Debug\netcoreapp3.1\T04.TextFilter.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\obj\Debug\netcoreapp3.1\T04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\obj\Debug\netcoreapp3.1\T04.TextFilter.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\obj\Debug\netcoreapp3.1\T04.TextFilter.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\obj\Debug\netcoreapp3.1\T04.TextFilter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\obj\Debug\netcoreapp3.1\T04.TextFilter.dll
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\obj\Debug\netcoreapp3.1\T04.TextFilter.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T04.TextFilter\obj\Debug\netcoreapp3.1\T04.TextFilter.genruntimeconfig.cache

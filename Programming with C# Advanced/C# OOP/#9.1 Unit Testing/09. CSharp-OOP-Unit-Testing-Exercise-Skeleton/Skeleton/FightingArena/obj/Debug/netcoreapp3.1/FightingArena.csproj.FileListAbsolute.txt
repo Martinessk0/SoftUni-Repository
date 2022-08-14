@@ -1,0 +1,10 @@
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

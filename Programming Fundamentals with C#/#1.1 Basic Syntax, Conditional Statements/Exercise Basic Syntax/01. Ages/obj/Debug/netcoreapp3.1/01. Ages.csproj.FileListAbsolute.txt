@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1.1 Exercise Basic Syntax, Conditional Statements and Loops\Exercise Basic Syntax\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache

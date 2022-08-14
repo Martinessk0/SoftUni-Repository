@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.exe
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.genruntimeconfig.cache

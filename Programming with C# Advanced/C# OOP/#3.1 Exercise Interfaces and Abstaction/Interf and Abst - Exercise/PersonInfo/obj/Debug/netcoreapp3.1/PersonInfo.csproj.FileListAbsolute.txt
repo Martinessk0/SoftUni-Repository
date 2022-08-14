@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

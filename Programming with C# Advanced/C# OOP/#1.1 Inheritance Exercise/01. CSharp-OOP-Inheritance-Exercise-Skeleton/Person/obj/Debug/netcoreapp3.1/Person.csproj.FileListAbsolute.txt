@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#1.1 Inheritance Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

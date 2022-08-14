@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#7 Generics\Generics - Lab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

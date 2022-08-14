@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\bin\Debug\netcoreapp3.1\T04.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\bin\Debug\netcoreapp3.1\T04.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\bin\Debug\netcoreapp3.1\T04.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\bin\Debug\netcoreapp3.1\T04.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\bin\Debug\netcoreapp3.1\T04.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\bin\Debug\netcoreapp3.1\T04.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\obj\Debug\netcoreapp3.1\T04.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\obj\Debug\netcoreapp3.1\T04.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\obj\Debug\netcoreapp3.1\T04.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\obj\Debug\netcoreapp3.1\T04.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\obj\Debug\netcoreapp3.1\T04.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\obj\Debug\netcoreapp3.1\T04.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3 Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Lab\T04\obj\Debug\netcoreapp3.1\T04.genruntimeconfig.cache

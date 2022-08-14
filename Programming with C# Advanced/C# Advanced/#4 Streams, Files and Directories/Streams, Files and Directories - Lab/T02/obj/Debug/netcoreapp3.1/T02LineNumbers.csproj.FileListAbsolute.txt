@@ -1,0 +1,14 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\bin\Debug\netcoreapp3.1\T02LineNumbers.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\bin\Debug\netcoreapp3.1\input.txt
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\bin\Debug\netcoreapp3.1\output.txt
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\bin\Debug\netcoreapp3.1\T02LineNumbers.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\bin\Debug\netcoreapp3.1\T02LineNumbers.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\bin\Debug\netcoreapp3.1\T02LineNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\bin\Debug\netcoreapp3.1\T02LineNumbers.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\bin\Debug\netcoreapp3.1\T02LineNumbers.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\obj\Debug\netcoreapp3.1\T02LineNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\obj\Debug\netcoreapp3.1\T02LineNumbers.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\obj\Debug\netcoreapp3.1\T02LineNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\obj\Debug\netcoreapp3.1\T02LineNumbers.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\obj\Debug\netcoreapp3.1\T02LineNumbers.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T02\obj\Debug\netcoreapp3.1\T02LineNumbers.genruntimeconfig.cache

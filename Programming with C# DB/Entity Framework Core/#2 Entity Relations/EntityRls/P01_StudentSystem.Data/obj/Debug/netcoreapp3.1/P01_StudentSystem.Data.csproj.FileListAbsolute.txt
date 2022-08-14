@@ -1,0 +1,16 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.runtimeconfig.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csproj.CopyComplete
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#2 Entity Relations\EntityRls\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.genruntimeconfig.cache

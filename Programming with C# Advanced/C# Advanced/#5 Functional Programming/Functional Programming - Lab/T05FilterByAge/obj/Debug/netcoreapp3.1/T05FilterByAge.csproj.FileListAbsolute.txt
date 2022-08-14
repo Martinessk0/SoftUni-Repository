@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\bin\Debug\netcoreapp3.1\T05FilterByAge.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\bin\Debug\netcoreapp3.1\T05FilterByAge.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\bin\Debug\netcoreapp3.1\T05FilterByAge.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\bin\Debug\netcoreapp3.1\T05FilterByAge.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\bin\Debug\netcoreapp3.1\T05FilterByAge.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\bin\Debug\netcoreapp3.1\T05FilterByAge.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\obj\Debug\netcoreapp3.1\T05FilterByAge.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\obj\Debug\netcoreapp3.1\T05FilterByAge.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\obj\Debug\netcoreapp3.1\T05FilterByAge.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\obj\Debug\netcoreapp3.1\T05FilterByAge.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\obj\Debug\netcoreapp3.1\T05FilterByAge.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\obj\Debug\netcoreapp3.1\T05FilterByAge.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#5 Functional Programming\Functional Programming - Lab\T05FilterByAge\obj\Debug\netcoreapp3.1\T05FilterByAge.genruntimeconfig.cache

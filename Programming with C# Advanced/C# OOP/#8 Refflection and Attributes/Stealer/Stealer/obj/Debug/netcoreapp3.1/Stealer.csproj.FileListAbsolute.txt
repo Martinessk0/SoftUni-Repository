@@ -1,0 +1,14 @@
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\obj\Debug\netcoreapp3.1\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#8 Refflection and Attributes\Stealer\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache

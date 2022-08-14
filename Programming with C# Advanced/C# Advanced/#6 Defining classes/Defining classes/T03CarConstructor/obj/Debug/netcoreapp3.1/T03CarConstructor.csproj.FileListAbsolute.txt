@@ -1,0 +1,12 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\bin\Debug\netcoreapp3.1\T03CarConstructor.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\bin\Debug\netcoreapp3.1\T03CarConstructor.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\bin\Debug\netcoreapp3.1\T03CarConstructor.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\bin\Debug\netcoreapp3.1\T03CarConstructor.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\bin\Debug\netcoreapp3.1\T03CarConstructor.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\bin\Debug\netcoreapp3.1\T03CarConstructor.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\obj\Debug\netcoreapp3.1\T03CarConstructor.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\obj\Debug\netcoreapp3.1\T03CarConstructor.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\obj\Debug\netcoreapp3.1\T03CarConstructor.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\obj\Debug\netcoreapp3.1\T03CarConstructor.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\obj\Debug\netcoreapp3.1\T03CarConstructor.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6 Defining classes\Defining classes\T03CarConstructor\obj\Debug\netcoreapp3.1\T03CarConstructor.genruntimeconfig.cache

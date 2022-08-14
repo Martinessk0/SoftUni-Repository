@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.exe
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.dll
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.dll
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.genruntimeconfig.cache

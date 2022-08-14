@@ -1,0 +1,10 @@
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\SoftUni\Programming with C# Advanced - January 2022\C# OOP\#9.1 Exercise Unit Testing\23\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.pdb

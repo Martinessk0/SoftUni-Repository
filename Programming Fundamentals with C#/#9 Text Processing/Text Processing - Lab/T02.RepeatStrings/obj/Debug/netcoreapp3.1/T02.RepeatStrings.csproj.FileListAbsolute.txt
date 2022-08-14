@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\bin\Debug\netcoreapp3.1\T02.RepeatStrings.exe
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\bin\Debug\netcoreapp3.1\T02.RepeatStrings.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\bin\Debug\netcoreapp3.1\T02.RepeatStrings.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\bin\Debug\netcoreapp3.1\T02.RepeatStrings.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\bin\Debug\netcoreapp3.1\T02.RepeatStrings.dll
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\bin\Debug\netcoreapp3.1\T02.RepeatStrings.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\obj\Debug\netcoreapp3.1\T02.RepeatStrings.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\obj\Debug\netcoreapp3.1\T02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\obj\Debug\netcoreapp3.1\T02.RepeatStrings.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\obj\Debug\netcoreapp3.1\T02.RepeatStrings.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\obj\Debug\netcoreapp3.1\T02.RepeatStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\obj\Debug\netcoreapp3.1\T02.RepeatStrings.dll
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\obj\Debug\netcoreapp3.1\T02.RepeatStrings.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T02.RepeatStrings\obj\Debug\netcoreapp3.1\T02.RepeatStrings.genruntimeconfig.cache

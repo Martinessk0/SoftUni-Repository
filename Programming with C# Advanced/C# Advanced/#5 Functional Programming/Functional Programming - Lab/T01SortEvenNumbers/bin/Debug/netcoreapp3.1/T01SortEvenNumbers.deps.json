@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "T01SortEvenNumbers/1.0.0": {
+        "runtime": {
+          "T01SortEvenNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T01SortEvenNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

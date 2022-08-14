@@ -1,0 +1,13 @@
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.exe
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.deps.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.dll
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.pdb
+C:\Users\marto\source\repos\Stacks and Queues - Exercise\T03MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\T03MaximumAndMinimumElement.genruntimeconfig.cache

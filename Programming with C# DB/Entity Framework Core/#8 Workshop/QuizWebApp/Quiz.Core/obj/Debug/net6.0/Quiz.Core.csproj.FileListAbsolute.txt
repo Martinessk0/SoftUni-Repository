@@ -1,0 +1,15 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\bin\Debug\net6.0\Quiz.Core.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\bin\Debug\net6.0\Quiz.Core.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\bin\Debug\net6.0\Quiz.Core.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\Quiz.Core.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\Quiz.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\Quiz.Core.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\Quiz.Core.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\Quiz.Core.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\Quiz.Core.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\refint\Quiz.Core.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\Quiz.Core.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\ref\Quiz.Core.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\bin\Debug\net6.0\Quiz.Infrastructure.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\bin\Debug\net6.0\Quiz.Infrastructure.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#8 Workshop\QuizWebApp\Quiz.Core\obj\Debug\net6.0\Quiz.Core.csproj.CopyComplete

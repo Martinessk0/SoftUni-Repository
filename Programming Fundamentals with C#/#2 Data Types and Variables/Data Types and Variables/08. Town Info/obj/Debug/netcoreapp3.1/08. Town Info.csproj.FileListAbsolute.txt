@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.exe
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.dll
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.pdb
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.dll
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.pdb
+D:\SoftUni\Programming Fundamentals with C#\#2 Data Types and Variables\Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\bin\Debug\netcoreapp3.1\T03WordCount.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\bin\Debug\netcoreapp3.1\output.txt
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\bin\Debug\netcoreapp3.1\text.txt
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\bin\Debug\netcoreapp3.1\words.txt
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\bin\Debug\netcoreapp3.1\T03WordCount.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\bin\Debug\netcoreapp3.1\T03WordCount.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\bin\Debug\netcoreapp3.1\T03WordCount.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\bin\Debug\netcoreapp3.1\T03WordCount.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\bin\Debug\netcoreapp3.1\T03WordCount.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\obj\Debug\netcoreapp3.1\T03WordCount.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\obj\Debug\netcoreapp3.1\T03WordCount.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\obj\Debug\netcoreapp3.1\T03WordCount.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\obj\Debug\netcoreapp3.1\T03WordCount.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\obj\Debug\netcoreapp3.1\T03WordCount.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4 Streams, Files and Directories\Streams, Files and Directories - Lab\T03\obj\Debug\netcoreapp3.1\T03WordCount.genruntimeconfig.cache

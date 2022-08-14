@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.exe
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.dll
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.dll
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.pdb
+D:\SoftUni\Programming Fundamentals with C#\#3 Arrays\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.genruntimeconfig.cache

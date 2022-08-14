@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.exe
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.dll
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.dll
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.pdb
+D:\SoftUni\Programming Fundamentals with C#\#7 Objects and Classes\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.genruntimeconfig.cache

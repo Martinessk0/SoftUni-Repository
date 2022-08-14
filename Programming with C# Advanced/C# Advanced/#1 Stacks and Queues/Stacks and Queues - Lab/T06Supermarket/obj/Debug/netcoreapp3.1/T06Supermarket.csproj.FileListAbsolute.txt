@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\bin\Debug\netcoreapp3.1\T06Supermarket.exe
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\bin\Debug\netcoreapp3.1\T06Supermarket.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\bin\Debug\netcoreapp3.1\T06Supermarket.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\bin\Debug\netcoreapp3.1\T06Supermarket.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\bin\Debug\netcoreapp3.1\T06Supermarket.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\bin\Debug\netcoreapp3.1\T06Supermarket.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\obj\Debug\netcoreapp3.1\T06Supermarket.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\obj\Debug\netcoreapp3.1\T06Supermarket.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\obj\Debug\netcoreapp3.1\T06Supermarket.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\obj\Debug\netcoreapp3.1\T06Supermarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\obj\Debug\netcoreapp3.1\T06Supermarket.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\obj\Debug\netcoreapp3.1\T06Supermarket.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T06Supermarket\obj\Debug\netcoreapp3.1\T06Supermarket.genruntimeconfig.cache

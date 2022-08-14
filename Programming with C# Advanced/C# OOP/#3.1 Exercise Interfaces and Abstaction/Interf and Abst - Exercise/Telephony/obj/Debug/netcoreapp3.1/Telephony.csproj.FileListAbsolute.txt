@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

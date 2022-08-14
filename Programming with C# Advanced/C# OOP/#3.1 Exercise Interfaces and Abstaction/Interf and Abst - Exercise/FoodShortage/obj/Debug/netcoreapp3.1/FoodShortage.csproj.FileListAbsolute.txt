@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#3.1 Exercise Interfaces and Abstaction\Interf and Abst - Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache

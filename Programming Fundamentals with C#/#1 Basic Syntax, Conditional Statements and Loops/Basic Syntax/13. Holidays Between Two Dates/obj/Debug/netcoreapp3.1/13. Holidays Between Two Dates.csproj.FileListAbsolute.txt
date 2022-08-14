@@ -1,0 +1,12 @@
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.exe
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+D:\SoftUni\Programming Fundamentals with C#\#1 Basic Syntax\Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.genruntimeconfig.cache

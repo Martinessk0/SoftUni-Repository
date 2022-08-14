@@ -1,0 +1,10 @@
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.deps.json
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.csproj.AssemblyReference.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfo.cs
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\SoftUni\Programming with C# DB - May 2022\Entity Framework Core\#4 Advanced Querying\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.pdb

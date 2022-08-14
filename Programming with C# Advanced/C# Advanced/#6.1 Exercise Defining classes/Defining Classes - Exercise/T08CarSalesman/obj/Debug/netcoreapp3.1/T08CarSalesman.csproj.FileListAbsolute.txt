@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\bin\Debug\netcoreapp3.1\T08CarSalesman.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\bin\Debug\netcoreapp3.1\T08CarSalesman.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\bin\Debug\netcoreapp3.1\T08CarSalesman.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\bin\Debug\netcoreapp3.1\T08CarSalesman.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\bin\Debug\netcoreapp3.1\T08CarSalesman.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\bin\Debug\netcoreapp3.1\T08CarSalesman.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\obj\Debug\netcoreapp3.1\T08CarSalesman.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\obj\Debug\netcoreapp3.1\T08CarSalesman.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\obj\Debug\netcoreapp3.1\T08CarSalesman.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\obj\Debug\netcoreapp3.1\T08CarSalesman.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\obj\Debug\netcoreapp3.1\T08CarSalesman.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\obj\Debug\netcoreapp3.1\T08CarSalesman.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced\#6.1 Exercise Defining classes\Defining Classes - Exercise\T08CarSalesman\obj\Debug\netcoreapp3.1\T08CarSalesman.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.1\ShoppingSpree.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# OOP\#2.1 Exercise Encapsulation\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache

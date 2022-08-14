@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\bin\Debug\netcoreapp3.1\T03. Word Synonyms.exe
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\bin\Debug\netcoreapp3.1\T03. Word Synonyms.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\bin\Debug\netcoreapp3.1\T03. Word Synonyms.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\bin\Debug\netcoreapp3.1\T03. Word Synonyms.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\bin\Debug\netcoreapp3.1\T03. Word Synonyms.dll
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\bin\Debug\netcoreapp3.1\T03. Word Synonyms.pdb
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\obj\Debug\netcoreapp3.1\T03. Word Synonyms.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\obj\Debug\netcoreapp3.1\T03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\obj\Debug\netcoreapp3.1\T03. Word Synonyms.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\obj\Debug\netcoreapp3.1\T03. Word Synonyms.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\obj\Debug\netcoreapp3.1\T03. Word Synonyms.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\obj\Debug\netcoreapp3.1\T03. Word Synonyms.dll
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\obj\Debug\netcoreapp3.1\T03. Word Synonyms.pdb
+D:\SoftUni\Programming Fundamentals with C#\#8 Associative Arrays\Associative Arrays\T03. Word Synonyms\obj\Debug\netcoreapp3.1\T03. Word Synonyms.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\bin\Debug\netcoreapp3.1\T08TrafficJam.exe
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\bin\Debug\netcoreapp3.1\T08TrafficJam.deps.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\bin\Debug\netcoreapp3.1\T08TrafficJam.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\bin\Debug\netcoreapp3.1\T08TrafficJam.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\bin\Debug\netcoreapp3.1\T08TrafficJam.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\bin\Debug\netcoreapp3.1\T08TrafficJam.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\obj\Debug\netcoreapp3.1\T08TrafficJam.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\obj\Debug\netcoreapp3.1\T08TrafficJam.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\obj\Debug\netcoreapp3.1\T08TrafficJam.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\obj\Debug\netcoreapp3.1\T08TrafficJam.dll
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\obj\Debug\netcoreapp3.1\T08TrafficJam.pdb
+D:\SoftUni\C# Advanced - януари 2022\#1 Stacks and Queues\Stacks and Queues - Lab\T08TrafficJam\obj\Debug\netcoreapp3.1\T08TrafficJam.genruntimeconfig.cache

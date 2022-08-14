@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\bin\Debug\netcoreapp3.1\T03.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\bin\Debug\netcoreapp3.1\copyMe.png
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\bin\Debug\netcoreapp3.1\T03.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\bin\Debug\netcoreapp3.1\T03.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\bin\Debug\netcoreapp3.1\T03.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\bin\Debug\netcoreapp3.1\T03.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\bin\Debug\netcoreapp3.1\T03.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\obj\Debug\netcoreapp3.1\T03.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\obj\Debug\netcoreapp3.1\T03.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\obj\Debug\netcoreapp3.1\T03.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\obj\Debug\netcoreapp3.1\T03.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\obj\Debug\netcoreapp3.1\T03.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#4.1 Exercise Streams, Files and Directories\Streams\T03\obj\Debug\netcoreapp3.1\T03.genruntimeconfig.cache

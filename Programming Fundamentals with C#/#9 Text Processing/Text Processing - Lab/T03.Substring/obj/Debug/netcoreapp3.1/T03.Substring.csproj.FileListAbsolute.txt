@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\bin\Debug\netcoreapp3.1\T03.Substring.exe
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\bin\Debug\netcoreapp3.1\T03.Substring.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\bin\Debug\netcoreapp3.1\T03.Substring.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\bin\Debug\netcoreapp3.1\T03.Substring.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\bin\Debug\netcoreapp3.1\T03.Substring.dll
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\bin\Debug\netcoreapp3.1\T03.Substring.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\obj\Debug\netcoreapp3.1\T03.Substring.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\obj\Debug\netcoreapp3.1\T03.Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\obj\Debug\netcoreapp3.1\T03.Substring.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\obj\Debug\netcoreapp3.1\T03.Substring.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\obj\Debug\netcoreapp3.1\T03.Substring.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\obj\Debug\netcoreapp3.1\T03.Substring.dll
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\obj\Debug\netcoreapp3.1\T03.Substring.pdb
+D:\SoftUni\Programming Fundamentals with C#\#9 Text Processing\Text Processing - Lab\T03.Substring\obj\Debug\netcoreapp3.1\T03.Substring.genruntimeconfig.cache

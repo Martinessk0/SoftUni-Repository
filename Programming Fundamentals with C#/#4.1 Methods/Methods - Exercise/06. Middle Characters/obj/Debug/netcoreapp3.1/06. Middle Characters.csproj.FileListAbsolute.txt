@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.exe
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.deps.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.dev.json
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.dll
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.dll
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.pdb
+D:\SoftUni\Programming Fundamentals with C#\#4.1 Exercise Methods\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.genruntimeconfig.cache

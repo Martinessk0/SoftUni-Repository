@@ -1,0 +1,13 @@
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\bin\Debug\netcoreapp3.1\4.exe
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\bin\Debug\netcoreapp3.1\4.deps.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\bin\Debug\netcoreapp3.1\4.runtimeconfig.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\bin\Debug\netcoreapp3.1\4.runtimeconfig.dev.json
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\bin\Debug\netcoreapp3.1\4.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\bin\Debug\netcoreapp3.1\4.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\obj\Debug\netcoreapp3.1\4.csprojAssemblyReference.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\obj\Debug\netcoreapp3.1\4.AssemblyInfoInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\obj\Debug\netcoreapp3.1\4.AssemblyInfo.cs
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\obj\Debug\netcoreapp3.1\4.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\obj\Debug\netcoreapp3.1\4.dll
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\obj\Debug\netcoreapp3.1\4.pdb
+D:\SoftUni\Programming with C# Advanced - януари 2022\C# Advanced - януари 2022\#3.1 Exercise Sets and Dictionaries Advanced\Sets and Dictionaries Advanced - Exercise\4\obj\Debug\netcoreapp3.1\4.genruntimeconfig.cache
